@@ -10,3 +10,5 @@ Husaria Games LCD games
 -Месть синоби, Mest sinobi, Zemsta shinobi, Shinobi Retaliation
 
 -Охота на подводные лодки, Okhota na podvodnyye lodki, Polowanie na łodzie podwodne, Submarine Hunt
+
+-Челюсти, Chelyusti, Szczęki, Jaws
