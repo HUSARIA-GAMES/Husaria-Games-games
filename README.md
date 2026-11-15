@@ -12,3 +12,5 @@ Husaria Games LCD games
 -Охота на подводные лодки, Okhota na podvodnyye lodki, Polowanie na łodzie podwodne, Submarine Hunt
 
 -Челюсти, Chelyusti, Szczęki, Jaws
+
+-Сокровище дракона, Sokrovishche drakona, Skarb smoka, Dragon Treasure
