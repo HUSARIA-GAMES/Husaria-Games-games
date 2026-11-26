@@ -14,3 +14,5 @@ Husaria Games LCD games
 -Челюсти, Chelyusti, Szczęki, Jaws
 
 -Сокровище дракона, Sokrovishche drakona, Skarb smoka, Dragon Treasure
+
+-Кинг-Конг, King-Kong, King Kong, King Kong
